@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Maps.MapControl.WPF</id>
+    <version>1.0.0.3</version>
+    <title>Bing Maps WPF Control</title>
+    <authors>Microsoft Bing Maps</authors>
+    <owners>Microsoft Bing Maps</owners>
+    <licenseUrl>http://www.microsoft.com/maps/product/WPF-Control.htm</licenseUrl>
+    <projectUrl>http://msdn.microsoft.com/en-us/library/hh750210.aspx</projectUrl>
+    <iconUrl>http://i1.visualstudiogallery.msdn.s-msft.com/ebc98390-5320-4088-a2b5-8f276e4530f9/image/file/105941/2/thumbnail.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>The Bing Maps Windows Presentation Foundation (WPF) Control combines the power of Windows Presentation Foundation and Bing Maps to provide an enhanced mapping experience.</description>
+    <summary />
+    <releaseNotes>Fixed errors in loading the configuration for some cultures
+Fixed error when using the map control in a template
+Updated Logo and configuration file load behavior. Fixed bugs in touch handling on Windows 8.x</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Bing Maps WPF</tags>
+  </metadata>
+</package>

@@ -1,0 +1,10 @@
+<Casualties>
+	<Location>
+		<Latitude>25.040</Latitude>
+		<Longitude>121.611</Longitude>
+		<Task>CasualtiesRecord</Task>
+	</Location>
+	<CasualtiesRecord>
+		<Number type="int">0</Number>
+	</CasualtiesRecord>
+</Casualties>

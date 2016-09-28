@@ -1,0 +1,70 @@
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\DiReCTUI.exe.config
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.exe
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.pdb
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\DiReCTUI.exe
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\DiReCTUI.pdb
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\AjaxMin.dll
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+H:\Desktop\DiReCTUI_201609\DiReCTUI\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.csprojResolveAssemblyReference.cache
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\MapView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\RecordView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\SelectionView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\ObservationsView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\RecordListView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\RecordersView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\MapView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\RecordView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\SelectionView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\ObservationsView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\Observations\RecordListView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\RecordersView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\MainWindow.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\App.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI_MarkupCompile.cache
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI_MarkupCompile.lref
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\MainWindow.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.g.resources
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.Properties.Resources.resources
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\DiReCTUI.csproj.GenerateResource.Cache
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\SOPListView.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\SOPListView.g.cs
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\SigninWindow.baml
+H:\Desktop\DiReCTUI_201609\DiReCTUI\obj\Debug\Views\SigninWindow.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SelectionView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\RecordersView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SigninWindow.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SOPListView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SelectionView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\RecordersView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\MainWindow.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SigninWindow.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\SOPListView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\App.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI_MarkupCompile.cache
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI_MarkupCompile.lref
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\DiReCTUI.exe.config
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\DiReCTUI.exe
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\DiReCTUI.pdb
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\AjaxMin.dll
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\MainWindow.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.g.resources
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.Properties.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.csproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.exe
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.pdb
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\DiReCTUI.csprojResolveAssemblyReference.cache
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Components\MapView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Components\TextBlockView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\MapMenuView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\RecordView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\ObservationsView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\RecordListView.baml
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Components\MapView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Components\TextBlockView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\MapMenuView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\RecordView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\ObservationsView.g.cs
+H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\Views\Observations\RecordListView.g.cs

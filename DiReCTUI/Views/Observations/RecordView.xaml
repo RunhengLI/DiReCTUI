@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="DiReCTUI.Views.Observations.RecordView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="354" d:DesignWidth="625" MinHeight="354">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer Grid.Row="0" Content="{Binding RecordGrid,UpdateSourceTrigger=PropertyChanged}" />
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+            <Button Name="SaveButton" Content="Save" Width="60" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding SaveCommand,UpdateSourceTrigger=PropertyChanged}" Margin="80,0,0,0"/>
+            <Button Name="AbortButton" Content="Abort" Width="60" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding AbortCommand,UpdateSourceTrigger=PropertyChanged}" Margin="0,0,80,0"/>
+            
+        </Grid>
+        
+    </Grid>
+    
+</UserControl>
