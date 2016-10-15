@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\obj\Debug\
+H:\Documents\GitHub\DiReCTUI\DiReCTUI\DiReCTUI\obj\Debug\
 DiReCTUI
 none
 false
 DEBUG;TRACE
-H:\Documents\Visual Studio 2013\Projects\DiReCTUI\DiReCTUI\App.xaml
+H:\Documents\GitHub\DiReCTUI\DiReCTUI\DiReCTUI\App.xaml
 111142696711
 
 37-645456251
-161517057353
+161434304335
 Views\Components\MapView.xaml;Views\Components\TextBlockView.xaml;Views\Observations\MapMenuView.xaml;Views\Observations\RecordView.xaml;Views\SelectionView.xaml;Views\Observations\ObservationsView.xaml;Views\Observations\RecordListView.xaml;Views\RecordersView.xaml;MainWindow.xaml;Views\SigninWindow.xaml;Views\SOPListView.xaml;
 
-False
+True
 

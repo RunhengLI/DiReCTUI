@@ -110,6 +110,26 @@ namespace DiReCTUI.ViewModels
         private RelayCommand _ToggleMenuCommand;
         #endregion
 
+
+        /// <summary>
+        /// Visibility of the map controller
+        /// </summary>
+        #region "MapControlVisibility"
+        public Visibility MapControlVisibility
+        {
+            get
+            {
+                return _MapControlVisibility;
+            }
+            set
+            {
+                _MapControlVisibility=value;
+                OnPropertyChanged("MapControlVisibility");
+            }
+        }
+        private Visibility _MapControlVisibility;
+        #endregion
+
         /// <summary>
         /// Grid for the menu
         /// WIP: Hard-coded grid
@@ -235,6 +255,7 @@ namespace DiReCTUI.ViewModels
             recordView.DataContext=new RecordViewModel(SOP.TaskNodeList[index],location,SOP.Name,this);
             RecordContent=recordView;
             MapContentVisibility=Visibility.Collapsed;
+            MapControlVisibility=Visibility.Collapsed;
             RecordContentVisibility=Visibility.Visible;
         }
     }

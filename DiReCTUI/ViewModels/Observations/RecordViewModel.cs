@@ -173,6 +173,7 @@ namespace DiReCTUI.ViewModels
         {
             Model.MapContentVisibility=Visibility.Visible;
             Model.RecordContentVisibility=Visibility.Collapsed;
+            Model.MapControlVisibility=Visibility.Visible;
             Model.MenuGridVisibility=Visibility.Collapsed;
             Model.RecordContent=null;
         }
